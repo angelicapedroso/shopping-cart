@@ -1,6 +1,3 @@
-// Primeiro requisito foi feito com ajuda do Mestre Bernardo com uma vídeo-aula disponibilizada
-// Realizei o projeto com ajuda do Brunão e demais colegas (Josué Gomes Ribeiro, Danilo Meneguela, Guilherme Duarte, Leonardo Ferreira...) da Turma 16 - A presentes na sala de estudos.
-
 const ol = document.querySelector('.cart__items');
 
 function createProductImageElement(imageSource) {
